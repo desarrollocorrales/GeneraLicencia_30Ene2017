@@ -12,3 +12,4 @@ G:\Github\GeneraLicencia_30Ene2017\GeneraLicencia\bin\Debug\GeneraLicencia.pdb
 G:\Github\GeneraLicencia_30Ene2017\GeneraLicencia\obj\x86\Debug\GeneraLicencia.Properties.Resources.resources
 G:\Github\GeneraLicencia_30Ene2017\GeneraLicencia\obj\x86\Debug\GeneraLicencia.Genera13.resources
 G:\Github\GeneraLicencia_30Ene2017\GeneraLicencia\obj\x86\Debug\GeneraLicencia.csproj.GenerateResource.Cache
+G:\Github\GeneraLicencia_30Ene2017\GeneraLicencia\obj\x86\Debug\GeneraLicencia.csprojResolveAssemblyReference.cache
